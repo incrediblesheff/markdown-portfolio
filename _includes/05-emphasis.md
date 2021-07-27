@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*WELCOME TO MY PORTFOLIO*
+_WELCOME_
+
+**HI ALL**
+__THIS IS MY PORTFOLIO__
+
+_MARKDOWN **PORTFOLIO** IS HERE_
